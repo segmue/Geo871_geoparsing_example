@@ -1,13 +1,2 @@
 spacy
 geoparser
-accelerate
-appdirs
-datasets
-haversine
-numpy
-pandas
-requests
-sentence_transformers
-spacy
-torch
-tqdm
